@@ -1,0 +1,38 @@
+
+Task1
+Shell Scripting is Fun
+ 
+Task2
+Shadow passwords are enabled
+You do not have permission to edit /etc/shadow
+ 
+Task3
+man
+bear
+pig
+dog
+cat
+ 
+Task4-5
+It is directory
+total 0
+
+Task6
+DIR Return
+exit 1
+
+Task7
+Command Failure
+exit 1
+
+Task8
+File count in PWD is : 7
+
+Task9
+20210818_mouse.jpeg
+mouse.jpeg
+JPEG Files are copied sucessfully
+20210818_20210818_mouse.jpeg
+20210818_mouse.jpeg
+mouse.jpeg
+
