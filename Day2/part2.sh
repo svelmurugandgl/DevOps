@@ -66,7 +66,7 @@ echo
 
 echo "Task8"
 echo "sudo apt-get install unzip";
-echo "suod apt-get install zip";
+echo "sudo apt-get install zip";
 unzip PokeDex.zip -d unzip_target_$1
 zip -r zip_file_$1.zip unzip_target_$1
 echo
